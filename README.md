@@ -17,12 +17,14 @@ I am currently learning, building, and experimenting with projects that combine 
 - ETL
 - Data analysis
 - Data visualisation
-- Research and problem-solving
+- Process optimization
 - Social impact
 
 ## Tools I Use
 
 - Excel
+- Power Query
+- Power Pivot
 - Google Sheets
 - SQL
 - Python
