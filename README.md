@@ -10,7 +10,7 @@ Over the past year, that curiosity has grown into a strong interest in data. I e
 
 I am currently learning, building, and experimenting with projects that combine analytical thinking, creativity, and real-world impact.
 
-## Skills & Tools
+## Skills
 
 - Data extraction
 - Data cleaning and organization
@@ -20,7 +20,7 @@ I am currently learning, building, and experimenting with projects that combine 
 - Process optimization
 - Social impact
 
-## Tools I Use
+## Tools 
 
 - Excel
 - Power Query
