@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi, I'm Ramune 👋
 
-<!--
-**Ramuneid/Ramuneid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**How can ideas, people, and data come together to create meaningful impact?**
 
-Here are some ideas to get you started:
+This question keeps inspiring me to learn, grow, and explore new tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is rooted in working with people and social initiatives, where I have always been curious about how people think, what they need, and how ideas can become meaningful change.
+
+Over the past year, that curiosity has grown into a strong interest in data. I enjoy using data to ask better questions, find patterns, and support clearer decisions.
+
+I am currently learning, building, and experimenting with projects that combine analytical thinking, creativity, and real-world impact.
+
+## Skills & Tools
+
+- Data extraction
+- Data cleaning and organization
+- ETL
+- Data analysis
+- Data visualisation
+- Research and problem-solving
+- Social impact
+
+## Tools I Use
+
+- Excel
+- Google Sheets
+- SQL
+- Python
+- Power BI
+- Git & GitHub
+- HTML
+- AI
+
+## Projects
+
+### Completed Projects
+
+- Coming soon
+
+### Currently Working On
+
+- Coming soon
+
+## How to Reach Me
+✨ Have a project where data, people, or impact matter? I'd be happy to hear from you on [LinkedIn](https://www.linkedin.com/in/idzelyte). ✨
