@@ -20,6 +20,14 @@ A data analysis project based on publicly available data about the distribution 
 
 The project covers the process of transforming raw data from multiple sources into a structured analytical model and interactive Power BI report, including data extraction, cleaning, transformation, modelling, analysis, and visualisation.
 
+### [Lithuanian Data Job Market Analysis](https://github.com/Ramuneid/SQL-with-Luke)
+
+**SQL · PostgreSQL · Data Analysis · CTEs · Joins · Aggregations**
+
+A SQL project exploring the data job market in Lithuania, with a focus on Data Analyst roles.
+
+The project uses job posting data to investigate salaries, required skills, skill demand, and the relationship between different skills and salary levels. SQL queries are used to turn these questions into structured analyses using joins, aggregations, filtering, grouping, and CTEs.
+
 ## Skills
 
 - Data extraction and cleaning
