@@ -20,7 +20,7 @@ I am currently learning, building, and experimenting with projects that combine 
 - Process optimization
 - Social impact
 
-## Tools 
+## Tools
 
 - Excel
 - Power Query
@@ -37,11 +37,13 @@ I am currently learning, building, and experimenting with projects that combine 
 
 ### Completed Projects
 
-- Coming soon
+- [1.2% Support in Lithuania – Power BI Data Analysis](https://github.com/Ramuneid/1.2-Support-in-Lithuania)  
+  Analysis of Lithuania's 1.2% income tax support data using Power Query and Power BI. Includes data cleaning, transformation, modelling, and interactive visualisation.
 
 ### Currently Working On
 
 - Coming soon
 
 ## How to Reach Me
+
 ✨ Have a project where data, people, or impact matter? I'd be happy to hear from you on [LinkedIn](https://www.linkedin.com/in/idzelyte). ✨
